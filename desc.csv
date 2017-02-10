@@ -1,0 +1,238 @@
+LIGHT_CODE,00,Not Applicable
+LIGHT_CODE,1,Daylight
+LIGHT_CODE,3,Dark Lights On
+LIGHT_CODE,4,Dark No Lights
+LIGHT_CODE,5.02,Dawn
+LIGHT_CODE,6.02,Dusk
+LIGHT_CODE,7.88,Dark - Unknown Lighting
+LIGHT_CODE,88,Other
+LIGHT_CODE,99,Unknown
+JUNCTION_CODE,0,Not Applicable
+JUNCTION_CODE,1,Non Intersection
+JUNCTION_CODE,2,Intersection
+JUNCTION_CODE,3,Intersection Related
+JUNCTION_CODE,4,Driveway Alley Access Related
+JUNCTION_CODE,5.01,Interchange Related
+JUNCTION_CODE,6.01,Crossover Related
+JUNCTION_CODE,7.01,Railway Grade Crossing
+JUNCTION_CODE,8.04,Residential Driveway
+JUNCTION_CODE,9.04,Commercial Driveway
+JUNCTION_CODE,10.04,Alley
+COLLISION_TYPE_CODE,00,Not Applicable
+COLLISION_TYPE_CODE,1,Head On
+COLLISION_TYPE_CODE,2,Head On Left Turn
+COLLISION_TYPE_CODE,3,Same Direction Rear End
+COLLISION_TYPE_CODE,4,Same Direction Rear End Right Turn
+COLLISION_TYPE_CODE,5,Same Direction Rear End Left Turn
+COLLISION_TYPE_CODE,6,Opposite Direction Sideswipe
+COLLISION_TYPE_CODE,7,Same Direction Sideswipe
+COLLISION_TYPE_CODE,8,Same Direction Right Turn
+COLLISION_TYPE_CODE,9,Same Direction Left Turn
+COLLISION_TYPE_CODE,10,Same Direction Both Left Turn
+COLLISION_TYPE_CODE,11,Same Movement Angle
+COLLISION_TYPE_CODE,12,Angle Meets Right Turn
+COLLISION_TYPE_CODE,13,Angle Meets Left Turn
+COLLISION_TYPE_CODE,14,Angle Meets Left Turn Head On
+COLLISION_TYPE_CODE,15,Opposite Direction Both Left Turn
+COLLISION_TYPE_CODE,17,Single Vehicle 
+COLLISION_TYPE_CODE,88,Other
+COLLISION_TYPE_CODE,99,Unknown
+SURF_COND_CODE,0,Not Applicable
+SURF_COND_CODE,1,Wet
+SURF_COND_CODE,2,Dry
+SURF_COND_CODE,3,Snow
+SURF_COND_CODE,4,Ice
+SURF_COND_CODE,5,"Mud, Dirt, Gravel"
+SURF_COND_CODE,6.03,Slush
+SURF_COND_CODE,7.01,Water (standing/moving)
+SURF_COND_CODE,8.05,Sand
+SURF_COND_CODE,9.88,Oil
+SURF_COND_CODE,88,Other
+SURF_COND_CODE,99,Unknown
+LANE_CODE,0,Not Applicable
+LANE_CODE,1,Right Turn Lane
+LANE_CODE,2,Left Turn Lane
+LANE_CODE,3,Acceleration Lane
+LANE_CODE,4,Deceleration Lane
+LANE_CODE,5,Shoulder Area
+LANE_CODE,6,Crossover Area
+LANE_CODE,7,Off Road
+LANE_CODE,8,Gore Area
+LANE_CODE,9,Median Area
+LANE_CODE,10,Parking Lot
+LANE_CODE,11,Separator
+LANE_CODE,12,Outside Right of Way
+LANE_CODE,13,On Ramp
+LANE_CODE,88,Other
+LANE_CODE,99,Unknown
+RD_COND_CODE,00,Not Applicable
+RD_COND_CODE,1,No Defects
+RD_COND_CODE,2,Shoulder Defect
+RD_COND_CODE,3,"Holes, Ruts, Etc."
+RD_COND_CODE,4,Foreign Material
+RD_COND_CODE,5,Loose Surface Material
+RD_COND_CODE,6,Obstruction Not Lighted
+RD_COND_CODE,7,Obstruction Not Signaled
+RD_COND_CODE,8,View Obstructed
+RD_COND_CODE,88,Other
+RD_COND_CODE,99,Unknown
+RD_DIV_CODE,0,Not Applicable
+RD_DIV_CODE,1,"Two-way, Not Divided"
+RD_DIV_CODE,2,One-way Trafficway
+RD_DIV_CODE,3,"Two-way, Divided, Unprotected (painted >4 feet) Median"
+RD_DIV_CODE,4,"Two-way, Divided, Positive Median Barrier"
+RD_DIV_CODE,5.01,"Two-way, Not Divided with a Continuous Left Turn Lane"
+RD_DIV_CODE,88,Other
+RD_DIV_CODE,99,Unknown
+WEATHER_CODE,0,Not Applicable
+WEATHER_CODE,2,Foggy
+WEATHER_CODE,3,Raining
+WEATHER_CODE,5,Severe Winds
+WEATHER_CODE,6.01,Clear
+WEATHER_CODE,7.01,Cloudy
+WEATHER_CODE,8.04,Snow
+WEATHER_CODE,9.04,Sleet
+WEATHER_CODE,10.04,Blowing Snow
+WEATHER_CODE,11.88,"Blowing Sand, Soil, Dirt"
+WEATHER_CODE,12.04,Wintry Mix
+WEATHER_CODE,88,Other
+WEATHER_CODE,99,Unknown
+CONDITION_CODE,00,Not Applicable
+CONDITION_CODE,1,Apparently Normal
+CONDITION_CODE,2,Had Been Drinking
+CONDITION_CODE,3,Using Drugs
+CONDITION_CODE,4,Physical Defects
+CONDITION_CODE,5,Other Handicaps
+CONDITION_CODE,6,Ill
+CONDITION_CODE,7,Fatigued Fainted
+CONDITION_CODE,8,Apparently Asleep
+CONDITION_CODE,9.88,Emotional Depressed Angry Disturbed
+CONDITION_CODE,10.03,Influenced by Medications and/or Drugs and/or Alcohol
+CONDITION_CODE,88,Other Handicaps
+CONDITION_CODE,99,Unknown
+INJ_SEVER_CODE,1,No Injury
+INJ_SEVER_CODE,2,Non-incapacitating Injury
+INJ_SEVER_CODE,3,Possible Incapacitating Injury
+INJ_SEVER_CODE,4,Incapacitating/Disabled Injury
+INJ_SEVER_CODE,5,Fatal Injury
+EQUIP_PROB_CODE,00,Not Applicable
+EQUIP_PROB_CODE,1,No Misuse
+EQUIP_PROB_CODE,11,Belts/Anchors Broken
+EQUIP_PROB_CODE,13,Belt(s) Misused
+EQUIP_PROB_CODE,31,Air Bag Failed
+EQUIP_PROB_CODE,42,Facing Wrong Way
+EQUIP_PROB_CODE,43,Not Anchored Right
+EQUIP_PROB_CODE,44,Anchor Not Secure
+EQUIP_PROB_CODE,45,Not Strapped Right
+EQUIP_PROB_CODE,46,Strap/Tether Loose
+EQUIP_PROB_CODE,47,Size/Type Improper
+EQUIP_PROB_CODE,88,Other
+EQUIP_PROB_CODE,99,Unknown
+SAF_EQUIP_CODE,00,Not Applicable
+SAF_EQUIP_CODE,1,None  
+SAF_EQUIP_CODE,11,Lap Belt Only
+SAF_EQUIP_CODE,12,Shoulder Belt Only
+SAF_EQUIP_CODE,13,Shoulder/Lap Belt(s)
+SAF_EQUIP_CODE,14,Child/Youth Restraints
+SAF_EQUIP_CODE,15.14,Child Restraint System Forward Facing
+SAF_EQUIP_CODE,16.14,Child Restraint System Rear Facing
+SAF_EQUIP_CODE,17.14,Booster Seat
+SAF_EQUIP_CODE,18.14,Child Restraint Type Unknown
+SAF_EQUIP_CODE,21,MC/Bike Helmet
+SAF_EQUIP_CODE,22,MC/Bike Eye Protection Only
+SAF_EQUIP_CODE,23,MC/Bike Helmet and Eye Protection
+SAF_EQUIP_CODE,24.88,Protective Pads
+SAF_EQUIP_CODE,25.88,Reflective Clothing
+SAF_EQUIP_CODE,26.88,Lighting
+SAF_EQUIP_CODE,31,Air Bag (Only)
+SAF_EQUIP_CODE,32,Air Bag and Belt(s)
+SAF_EQUIP_CODE,88,Other
+SAF_EQUIP_CODE,99,Unknown
+DAMAGE_CODE,00,Not Applicable
+DAMAGE_CODE,1,No Damage
+DAMAGE_CODE,2,Superficial
+DAMAGE_CODE,3,Functional
+DAMAGE_CODE,4,Disabling
+DAMAGE_CODE,5,Destroyed
+DAMAGE_CODE,88,Other
+DAMAGE_CODE,99,Unknown
+MOVEMENT_CODE,00,Not Applicable
+MOVEMENT_CODE,1,Moving Constant Speed
+MOVEMENT_CODE,2,Accelerating
+MOVEMENT_CODE,3,Slowing or Stopping
+MOVEMENT_CODE,4,Starting From Lane
+MOVEMENT_CODE,5,Starting From Parked
+MOVEMENT_CODE,6,Stopped in Traffic Lane
+MOVEMENT_CODE,7,Changing Lanes
+MOVEMENT_CODE,8,Passing
+MOVEMENT_CODE,9,Parking  
+MOVEMENT_CODE,10,Parked  
+MOVEMENT_CODE,11,Backing
+MOVEMENT_CODE,12,Making Left Turn
+MOVEMENT_CODE,13,Making Right Turn
+MOVEMENT_CODE,14,Right Turn on Red
+MOVEMENT_CODE,15,Making U Turn
+MOVEMENT_CODE,16,Skidding
+MOVEMENT_CODE,17,Driverless Moving Vehicle
+MOVEMENT_CODE,18.07,Leaving Traffic Lane
+MOVEMENT_CODE,19.07,Entering Traffic Lane
+MOVEMENT_CODE,20.03,Negotiating a Curve
+MOVEMENT_CODE,88,Other
+MOVEMENT_CODE,99,Unknown
+BODY_TYPE_CODE,00,Not Applicable
+BODY_TYPE_CODE,1,Motorcycle
+BODY_TYPE_CODE,2,Passenger Car
+BODY_TYPE_CODE,3,Station Wagon
+BODY_TYPE_CODE,4,Limousine
+BODY_TYPE_CODE,5,"Cargo Van/Light Truck 2 axles (10,000 lbs (4,536 kg) or less)"
+BODY_TYPE_CODE,6,"Medium/Heavy Truck 2 axles (10,000 lbs (4,536 kg) or less)"
+BODY_TYPE_CODE,7,Truck Tractor
+BODY_TYPE_CODE,8,Recreational Vehicle
+BODY_TYPE_CODE,9,Farm Vehicle
+BODY_TYPE_CODE,10,Transit Bus
+BODY_TYPE_CODE,11,Cross Country Bus
+BODY_TYPE_CODE,12,School Bus
+BODY_TYPE_CODE,13,Ambulance/Emergency
+BODY_TYPE_CODE,14,Ambulance/Non Emergency
+BODY_TYPE_CODE,15,Fire Vehicle/Emergency
+BODY_TYPE_CODE,16,Fire Vehicle/Non Emergency
+BODY_TYPE_CODE,17,Police Vehicle/Emergency
+BODY_TYPE_CODE,18,Police Vehicle/Non Emergency
+BODY_TYPE_CODE,19,Moped
+BODY_TYPE_CODE,20,Pickup Truck
+BODY_TYPE_CODE,21,Van
+BODY_TYPE_CODE,22.05,"Other Light Trucks (10,000 lbs (4,536 kg))"
+BODY_TYPE_CODE,23.08,(Sport) Utility Vehicle
+BODY_TYPE_CODE,24.88,Low Speed Vehicle
+BODY_TYPE_CODE,25.88,Other Bus
+BODY_TYPE_CODE,26.88,All Terrain Vehicle (ATV)
+BODY_TYPE_CODE,27.88,Snowmobile
+BODY_TYPE_CODE,88,Other
+BODY_TYPE_CODE,99,Unknown
+AREA_DAMAGED_CODE_MAIN,00,Not Applicable
+AREA_DAMAGED_CODE_MAIN,1,One o'clock
+AREA_DAMAGED_CODE_MAIN,2,Two o'clock
+AREA_DAMAGED_CODE_MAIN,3,Three o'clock
+AREA_DAMAGED_CODE_MAIN,4,Four o'clock
+AREA_DAMAGED_CODE_MAIN,5,Five o'clock
+AREA_DAMAGED_CODE_MAIN,6,Six o'clock
+AREA_DAMAGED_CODE_MAIN,7,Seven o'clock
+AREA_DAMAGED_CODE_MAIN,8,Eight o'clock
+AREA_DAMAGED_CODE_MAIN,9,Nine o'clock
+AREA_DAMAGED_CODE_MAIN,10,Ten o'clock
+AREA_DAMAGED_CODE_MAIN,11,Eleven o'clock
+AREA_DAMAGED_CODE_MAIN,12,Twelve o'clock
+AREA_DAMAGED_CODE_MAIN,13,Left Side 3rd Quarter
+AREA_DAMAGED_CODE_MAIN,14,Left Side 2nd Quarter
+AREA_DAMAGED_CODE_MAIN,15,Left Side Front Quarter
+AREA_DAMAGED_CODE_MAIN,16,Front Left Corner
+AREA_DAMAGED_CODE_MAIN,17,Hood
+AREA_DAMAGED_CODE_MAIN,18,Roof Top
+AREA_DAMAGED_CODE_MAIN,19,Trunk
+AREA_DAMAGED_CODE_MAIN,20,Windshield
+AREA_DAMAGED_CODE_MAIN,21,Windows
+AREA_DAMAGED_CODE_MAIN,22,Underside
+AREA_DAMAGED_CODE_MAIN,23,Overturn Overall
+AREA_DAMAGED_CODE_MAIN,88,Other
+AREA_DAMAGED_CODE_MAIN,98,Non-collision
+AREA_DAMAGED_CODE_MAIN,99,Unknown
